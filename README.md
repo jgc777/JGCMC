@@ -14,7 +14,7 @@ Requiere 64bits y ha sido probado en Windows 10. En teoría es compatible con to
 Para cerrar el servidor no cierre la ventana, use el comando stop.
 
 ## Versión antigua
-Hace lo mismo solo que requiere más archivos. Requiere la instalación de Java.com y Playit.gg para funcionar. Como ventaja es bastante más rápida ya que no necesita descomprimir. Para usarla deberás abrir el acceso directo incluido en su carpeta.
+Hace lo mismo solo que requiere más archivos. Requiere la instalación de Java.com y Playit.gg para funcionar. Como ventaja es bastante más rápida ya que no necesita descomprimir. Para usarla deberás abrir el acceso directo incluido en el archivo JGCMC_old.zip en lanzamientos.
 
 ## Extra
 Algunas opciones extra son:
