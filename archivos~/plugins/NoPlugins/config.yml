@@ -1,0 +1,117 @@
+# Enable debug messages?
+debug: false
+# Enable/Disable update checker
+updater: true
+# Enable/Disable update notification when joining the server with enough permissions
+update-notification: true
+# Operator status bypasses NoPlugins? (/op)
+# If this is set to false, you cannot be op and must have the permission (noplugin.bypass) to bypass.
+# Otherwise if set to true, you can be op and have the permission specified or not.
+operator-bypass: true
+# Display messages in a list format?
+list-messaging: false
+# Remove every command from the command list in-game?
+# This is what you see when you open chat and enter "/" and then press tab.
+# In version 6.9.1 you have the "tab-block-everything" setting, if you set this to true it will act like that
+# on minecraft versions before 1.13.
+clear-command-list: false
+# Want to clean the command list ingame? This removes all e.x "essentials:" type commands
+# from the tab completion list for minecraft clients on 1.13+
+clean-command-list: false
+# The list where you remove individual commands from the command list in-game and the default set of commands blocked.
+# When using minecraft version below 1.13 this is the list where the tab blocker checks for commands to
+# prevent being tab completed.
+removed-commands:
+  - about
+  - ver
+  - '?'
+  - version
+  - icanhasbukkit
+  - pl
+  - plugins
+  - bukkit:pl
+  - bukkit:plugins
+  - bukkit:ver
+  - bukkit:version
+  - bukkit:?
+  - bukkit:about
+  - bukkit:help
+# Enable/Disable String Commands Protection
+string-command-protection: false
+# String command message
+string-command-blocked: "&cThis command has been blocked!"
+# String command list, this list may contain commands that actually do not exist on the server.
+string-commands:
+  - /spigot
+  - /essentials
+  - /pex
+# Enable/Disable console only commands
+console-only-commands: false
+# Console only message
+console-only-message: "&cThis command is console only!"
+# Console only command list
+console-commands:
+  - /op
+  - /deop
+  - /stop
+# Block all commands from specific plugins?
+# This feature may not work on all plugins due to they register commands differently
+block-plugin-commands: false
+# Blocked/removed command message
+blocked-command-message: "Unknown command. Type \"/help\" for help."
+# The list of plugins to remove/block commands. This "hides" all commands from the specified plugins.
+plugins:
+  - LuckPerms
+  - WorldGuard
+##########################
+# General Messages below #
+##########################
+nopermission: "&cYou don't have permission to do this!"
+# In this message section you can add more commands to have custom messages!
+# These messages are referenced to the command specified in the "removed-commands" list.
+# The key has to be what the command is e.g "about: 'your message'" this is not case SenSITive
+messages:
+  plugins: 'Plugins (3): &aNot&f, &aYour&f, &aBusiness'
+  pl: 'Plugins (3): &aNot&f, &aYour&f, &aBusiness'
+  iCanHasBukkit: 'Plugins (3): &aNot&f, &aYour&f, &aBusiness'
+  about: 'Plugins (3): &aNot&f, &aYour&f, &aBusiness'
+  version: 'Plugins (3): &aNot&f, &aYour&f, &aBusiness'
+  ver: 'Plugins (3): &aNot&f, &aYour&f, &aBusiness'
+  '?': 'Plugins (3): &aNot&f, &aYour&f, &aBusiness'
+# This section is for having multiple lines messages!
+# This acts the same as the single line with extra custom messages for removed commands.
+# You can add more commands here as well as long they are setup like default:
+#  plugins:
+#    - '&aNot'
+#    - '&aYour'
+#    - '&aBusiness'
+#    - 'More lines? :)'
+list-messages:
+  plugins:
+    - '&aNot'
+    - '&aYour'
+    - '&aBusiness'
+  pl:
+    - '&aNot'
+    - '&aYour'
+    - '&aBusiness'
+  iCanHasBukkit:
+    - '&aNot'
+    - '&aYour'
+    - '&aBusiness'
+  about:
+    - '&aNot'
+    - '&aYour'
+    - '&aBusiness'
+  version:
+    - '&aNot'
+    - '&aYour'
+    - '&aBusiness'
+  ver:
+    - '&aNot'
+    - '&aYour'
+    - '&aBusiness'
+  '?':
+    - '&aNot'
+    - '&aYour'
+    - '&aBusiness'
