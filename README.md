@@ -2,7 +2,7 @@
 - [(Github)](http://tinyurl.com/JGCMC)
 
 # JGCMC
-Un simple servidor Minecraft portable e independiente compatible con plugins y todas las versiones, con todo lo que necesitas.
+Un simple servidor Minecraft PaperMC 1.16.5 portable e independiente compatible con plugins y todas las versiones, con todo lo que necesitas.
 
 ## Compatibilidad
 Requiere 64bits y ha sido probado en Windows 10. En teoría es compatible con todas las versiones de Windows a partir de Windows Vista SP2.
