@@ -1,4 +1,4 @@
-# [JGCMC](http://tinyurl.com/JGCMC-web)
+# JGCMC [(web)](http://tinyurl.com/JGCMC-web) [(github)](http://tinyurl.com/JGCMC)
 Un simple servidor Minecraft portable e independiente compatible con plugins y todas las versiones, con todo lo que necesitas.
 
 ## Compatibilidad
@@ -7,7 +7,8 @@ Requiere 64bits y ha sido probado en Windows 10. En teoría es compatible con to
 ## Uso
 1. Para la nueva versión, simplemente descargue JGCMC.exe desde lanzamientos  o desde [aquí](http://tinyurl.com/JGCMC-exe) y ejecútelo. Se recomienda ejecutarlo en una nueva carpeta.
 
-2.
+2. 
+
   a) En la ventana de playit use Ctrl+C para copiar el enlace que aparece tras seleccionarlo y péguelo en su navegador para acceder a él. Siga las instrucciones de la web y elija las configuraciones predeterminadas para MC Java. Tras conectarse, obtendrá un enlace permanente mediante el cual cualquier persona con ella se podrá conectar a su servidor desde cualquier versión de Minecraft.
 
   b) Si usted tiene conocimiento avanzados puede abrir sus puertos manualmente y omitir todo el proceso relacionado con playit.
