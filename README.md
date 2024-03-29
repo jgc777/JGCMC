@@ -5,7 +5,7 @@ Un simple servidor Minecraft portable e independiente compatible con plugins y t
 Requiere 64bits y ha sido probado en Windows 10. En teoría es compatible con todas las versiones de Windows a partir de Windows Vista SP2.
 
 ## Uso
-1. Para la nueva versión, simplemente descargue JGCMC.exe desde lanzamientos y ejecútelo. Se recomienda ejecutarlo en una nueva carpeta.
+1. Para la nueva versión, simplemente descargue JGCMC.exe desde lanzamientos  o desde [aquí](http://tinyurl.com/JGCMC-exe) y ejecútelo. Se recomienda ejecutarlo en una nueva carpeta.
 2. Si el programa se cierra, ábralo de nuevo.
 3a. En la ventana de playit use Ctrl+C para copiar el enlace que aparece tras seleccionarlo y péguelo en su navegador para acceder a él. Siga las instrucciones de la web y elija las configuraciones predeterminadas para MC Java. Tras conectarse, obtendrá un enlace permanente mediante el cual cualquier persona con ella se podrá conectar a su servidor desde cualquier versión de Minecraft.
 3b. Si usted tiene conocimiento avanzados puede abrir sus puertos manualmente y omitir todo el proceso relacionado con playit.
@@ -14,7 +14,7 @@ Requiere 64bits y ha sido probado en Windows 10. En teoría es compatible con to
 Para cerrar el servidor no cierre la ventana, use el comando stop.
 
 ## Versión antigua
-Hace lo mismo solo que requiere más archivos. Requiere la instalación de Java.com y Playit.gg para funcionar. Como ventaja es bastante más rápida ya que no necesita descomprimir. Para usarla deberás abrir el acceso directo incluido en el archivo JGCMC_old.zip en lanzamientos.
+Hace lo mismo solo que requiere más archivos. Requiere la instalación de Java.com y Playit.gg para funcionar. Como ventaja es bastante más rápida ya que no necesita descomprimir. Para usarla deberás abrir el acceso directo tras descomprimir el archivo JGCMC_old.zip ubicado en lanzamientos o [aquí](http://tinyurl.com/JGCMC-old-zip).
 
 ## Extra
 Algunas opciones extra son:
