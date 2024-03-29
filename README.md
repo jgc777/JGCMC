@@ -1,4 +1,4 @@
-# **JGCMC**
+# [JGCMC](http://tinyurl.com/JGCMC-web)
 Un simple servidor Minecraft portable e independiente compatible con plugins y todas las versiones, con todo lo que necesitas.
 
 ## Compatibilidad
