@@ -1,6 +1,3 @@
-- [(WWW)](http://tinyurl.com/JGCMC-web)
-- [(Github)](http://tinyurl.com/JGCMC)
-
 # JGCMC
 Un simple servidor Minecraft PaperMC 1.16.5 portable e independiente compatible con plugins y todas las versiones, con todo lo que necesitas.
 
