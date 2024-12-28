@@ -1,5 +1,5 @@
 # JGCMC
-Un simple servidor Minecraft PaperMC 1.16.5 portable e independiente compatible con plugins y todas las versiones, con todo lo que necesitas.
+Un simple servidor Minecraft PaperMC 1.16.5 portable e independiente compatible con plugins y todas las versiones, con todo lo que necesitas. Funciona gracias a 7-zip, Minecraft, Amazon Correto JDK 16, PaperMC, Playit.gg y Bat To Exe Converter
 
 ## Compatibilidad
 Requiere 64bits y ha sido probado en Windows 10. En teoría es compatible con todas las versiones de Windows a partir de Windows Vista SP2.
