@@ -1,4 +1,6 @@
 # JGCMC
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
 Un simple servidor Minecraft PaperMC 1.16.5 portable e independiente compatible con plugins y todas las versiones, con todo lo que necesitas. Funciona gracias a 7-zip, Minecraft, Amazon Correto JDK 16, PaperMC, Playit.gg y Bat To Exe Converter. Al usar esto aceptas el EULA de Minecraft.
 
 ## Compatibilidad
