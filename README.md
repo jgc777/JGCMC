@@ -5,7 +5,7 @@ Un simple servidor Minecraft PaperMC 1.16.5 portable e independiente compatible 
 Requiere 64bits y ha sido probado en Windows 10. En teoría es compatible con todas las versiones de Windows a partir de Windows Vista SP2.
 
 ## Uso
-1. Para la nueva versión, simplemente descargue JGCMC.exe desde lanzamientos  o desde [aquí](http://tinyurl.com/JGCMC-exe) y ejecútelo. Se recomienda ejecutarlo en una nueva carpeta.
+1. Para la nueva versión, simplemente descargue JGCMC.exe desde lanzamientos  o desde [aquí](https://github.com/jgc777/JGCMC/releases/latest) y ejecútelo. Se recomienda ejecutarlo en una nueva carpeta.
 
 2. 
 
@@ -35,7 +35,6 @@ Aunque el programa es totalmente seguro, como puede comprobar en el código fuen
 
  - Verificar el código en la carpeta src y comprobar los archivos de la carpeta jgcmc, así como reemplazarlos descargándolos de internet manualmente.
  - Si aun no se fía, puede usar la versión antigua la cual no comprende ejecutables y puede revisar el código mucho más fácilmente, aunque esta requiera la instalación manual de Playit y Java.
- - Verificar que el ejecutable es el original ( SHA256 =  c5df93a282fc220cfc04003c9947709a57bf1f1caedf7b573991bfdc492300df ). Para la versión antigua el hash del zip es 852061c189001b8d51398a2a4770fe64fb6eb94139984eb6cb291d84e5d749b8 .
 
 ## Recompilar/ modificar
 Puede recompilar el programa para asegurarse de su seguridad o modificarlo. En la carpeta src hay un script llamado Compilar.jgcmc.cmd el cual generará un ejecutable para Windows x64 a partir de .jgcmc.cmd, le añadirá los archivos dentro de la carpeta jgcmc tras comprimir los de la carpeta archivos_, añadirá ciertos atributos y opciones y añadirá el icono icono.ico al ejecutable. No se añade el icono mediante la herramienta Bat To Exe Converter ya que genera un error al agregar los recursos. Si obtiene un error al agregar los recursos deberá esperar unos segundos tras cerrar el compilador y volver a iniciar este repitiendo este proceso hasta que añada los recursos. Puede ser compilado en Windows 10 17063 o superior de 64 bits con internet.
