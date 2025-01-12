@@ -7,7 +7,7 @@ Un simple servidor Minecraft PaperMC 1.16.5 portable e independiente compatible 
 Requiere 64bits y ha sido probado en Windows 10. En teoría es compatible con todas las versiones de Windows a partir de Windows Vista SP2.
 
 ## Uso
-1. Para la nueva versión, simplemente descargue JGCMC.exe desde lanzamientos  o desde [aquí](https://github.com/jgc777/JGCMC/releases/latest) y ejecútelo. Se recomienda ejecutarlo en una nueva carpeta.
+1. Para la nueva versión, simplemente descargue JGCMC.exe desde [aquí](https://github.com/jgc777/JGCMC/releases/latest) y ejecútelo. Se recomienda ejecutarlo en una nueva carpeta.
 
 2. 
 
