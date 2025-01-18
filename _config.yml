@@ -1,4 +1,7 @@
 theme: jekyll-theme-midnight
+title: JGC MC (PaperMC) Server
+show_downloads: "true"
 github:
-  owner_url: http://jgc777.github.io/
+  owner_url: https://jgc.linkpc.net/
   owner_name: Jgc7
+
